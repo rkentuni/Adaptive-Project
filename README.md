@@ -1,1 +1,1 @@
-![Image of a flyer](flyer.png)
+![Image of a flyer](flyer_smaller.png)
